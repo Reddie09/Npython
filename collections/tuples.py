@@ -55,3 +55,4 @@ print(meses[5])
 # Por que utilizar tuplas?
 # - Tuplas são mais rápidas que listas
 # - Tuplas deixam seu código mais seguro
+# - Na tupla não temos o problema de Shallow copy
